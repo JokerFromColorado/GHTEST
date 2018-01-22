@@ -1,4 +1,3 @@
-asddas
 w
 wrsdstring fsdasdasdadsor test
 saewr
