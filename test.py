@@ -1,19 +1,4 @@
 
-I am having problems with the GitHub integration - the commands are not working.
-
-- My email address is the same on YouTrack and GitHub
-- I have added the repository on GitHub and enabled the hook
-- I have filled in root username and password on GitHub hook
-- I am running YouTrack on self-installed Tomcat
-- I pushed a commit with "Test #IBN-2 Fixed" (IBN-2 was in progress) and it wasn't updated to Fixed
-
-YouTrack address: http://track.mblgrn.com
-Github: http://github.com/georgios
-
-What can I do to troubleshoot this? Log of the above commit operation above
-
-Georgios
-
 
 24 Apr 2013 15:25:17,090 INFO  [MainServlet                   ] [http request: /issue/IBN-2                        ] [internal@127.0.0.1] Start processing request /issue/IBN-2
 24 Apr 2013 15:25:17,090 DEBUG [BaseApplication               ] [http request: /issue/IBN-2                        ] [internal@127.0.0.1] Created bean for session variables
