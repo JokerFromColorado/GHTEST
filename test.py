@@ -1,80 +1,3 @@
-ddssdsdasdadsdas
-wsdasdads
-adadssdasasddasdaasd
-asdasdds
-asdaddasdsasdsa
-xzererwew
-uuuwerwerwer
-SADASDASDsdasdasfdsfsdfdssdffds
-sewewew
-aasasdsdadsds
-dfsdfsdafdfdsdfsdsf
-sdfsdfsdbcvcvbcvbcv
-daasasddsaasd
-asdasdasdsdasd
-asdasdsad
-asdasdadssd
-adasdrsdstring fsdasdasdadsor test
-saewr
-wewerwrwer
-wer
-werwrw
-r
-we wer wrwe ew wer test 
-rrwerwerwer
-w
-er
-wer
-wer
-wer
-
-wer
-wer
-
-w
-er
-wer
-wer
-wewer
-ewrwer
-we
-wer
-werweddasqweqwqwe
-
-
-ddsfsdsd
-fsdasdsdaasd
-ads
-d
-as
-sda
-asd
-as
-d
-sad
-sadqweqweqwe
-qwe
-qwq
-wwqe
-qwe
-asd
-
-fewrwer345345345
-534
-3
-45
-345
-345
-345qewqweq
-qwe
-qeweqw
-
-asdasdasertertertert
-ert
-
-DASasewrwewrewer
-
-wertyrtyrytrytHi,
 
 I am having problems with the GitHub integration - the commands are not working.
 
@@ -143,6 +66,10 @@ Georgios
 sd
 fsd
 fsd[MainServlet                   ] [TeamcityBuildTypeMappingList.refreshStatuses:tick]] [georgiosd@127.0.0.1] Start processing request /_events?window_id=41 [l.E.tab_TeamCity.TeamcityBuildTypeMappingList.refreshStatuses:tick]
+<<<<<<< Updated upstream
+=======
+>>>>>>> abc78bb974dd3bdaeb479bd33f653717f3def2db
+>>>>>>> Stashed changes
 24 Apr 2013 15:26:12,438 INFO  [MainServlet                   ] [TeamcityBuildTypeMappingList.refreshStatuses:tick]] [georgiosd@127.0.0.1] Finish processing request /_events?window_id=41 [l.E.tab_TeamCity.TeamcityBuildTypeMappingList.refreshStatuses:tick] in 0ms
 24 Apr 2013 15:26:14,654 INFO  [MainServlet                   ] [ts?window_id=41 [l.AdminMenu.adminMenuTicker:tick]] [georgiosd@127.0.0.1] Start processing request /_events?window_id=41 [l.AdminMenu.adminMenuTicker:tick]
 24 Apr 2013 15:26:14,669 INFO  [MainServlet                   ] [ts?window_id=41 [l.AdminMenu.adminMenuTicker:tick]] [georgiosd@127.0.0.1] Finish processing request /_events?window_id=41 [l.AdminMenu.adminMenuTicker:tick] in 15ms
