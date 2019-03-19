@@ -11,7 +11,8 @@ asdasadsadsadssfd
 24 Apr 2013 15:26:48,428 INFO  [MainServlet                   ] [TeamcityBuildTypeMappingList.refreshStatuses:tick]] [georgiosd@127.0.0.1] Start processing request /_events?window_id=41 [l.E.tab_TeamCity.TeamcityBuildTypeMappingList.refreshStatuses:tick]
 24 Apr 2013 15:26:48,428 INFO  [MainServlet                   ] [TeamcityBuildTypeMappingList.refreshStatuses:tick]] [georgiosd@127.0.0.1] Finish processing request /_events?window_id=41 qweewqwweq
 rsr eqqwe 
- wqtatuses:tick] in 15ms
+ wqqweqwewq
+ qwewqqwetatuses:tick] in 15ms
 
 asdaasd
 asdadsadsqwewqe
