@@ -9,11 +9,9 @@ asdasadsadsadssfd
 24 Apr 2013 15:25:35,872 INFO  [MainServlet                   ] [http request: /editProject/IBN                    ] [georgiosd@127.0.0.1] Finish processing request /editProject/IBN in 47ms
 2
 24 Apr 2013 15:26:48,428 INFO  [MainServlet                   ] [TeamcityBuildTypeMappingList.refreshStatuses:tick]] [georgiosd@127.0.0.1] Start processing request /_events?window_id=41 [l.E.tab_TeamCity.TeamcityBuildTypeMappingList.refreshStatuses:tick]
-24 Apr 2013 15:26:48,428 INFO  [MainServlet                   ] [TeamcityBuildTypeMappingList.refreshStatuses:tick]] [georgiosd@127.0.0.1] Finish processing request /_events?window_id=41 [l.E.tab_TeamCity.TeamcityBuildTypeMappingList.refreshStatuses:tick] in 0ms
-24 Apr 2013 15:26:49,676 INFO  [MainServlet                   ] [ts?window_id=41 [l.AdminMenu.adminMenuTicker:tick]] [georgiosd@127.0.0.1] Start processing request /_events?window_id=41 [l.AdminMenu.adminMenuTicker:tick]
-24 Apr 2013 15:26:49,691 INFO  [MainServlet                   ] [ts?window_id=41 [l.AdminMenu.adminMenuTicker:tick]] [georgiosd@127.0.0.1] Finish processing request /_events?window_id=41 [l.AdminMenu.adminMenuTicker:tick] in 15ms
-24 Apr 2013 15:26:51,345 INFO  [MainServlet                   ] [TeamcityBuildTypeMappingList.refreshStatuses:tick]] [georgiosd@127.0.0.1] Start processing request /_events?window_id=41 [l.E.tab_TeamCity.TeamcityBuildTypeMappingList.refreshStatuses:tick]
-24 Apr 2013 15:26:51,360 INFO  [MainServlet                   ] [TeamcityBuildTypeMappingList.refreshStatuses:tick]] [georgiosd@127.0.0.1] Finish processing request /_events?window_id=41 [l.E.tab_TeamCity.TeamcityBuildTypeMappingList.refreshStatuses:tick] in 15ms
+24 Apr 2013 15:26:48,428 INFO  [MainServlet                   ] [TeamcityBuildTypeMappingList.refreshStatuses:tick]] [georgiosd@127.0.0.1] Finish processing request /_events?window_id=41 qweewqwweq
+rsr eqqwe 
+ wqtatuses:tick] in 15ms
 
 asdaasd
 asdadsadsqwewqe
